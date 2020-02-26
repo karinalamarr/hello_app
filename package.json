@@ -1,0 +1,16 @@
+{
+    "name": "hello_app",
+    "version": "1.0.0",
+    "description": "Online Dating App",
+    "main": " server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Karina LaMarr",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^3.1.0",
+        "nodemon": "^2.0.2"
+    }
+}
